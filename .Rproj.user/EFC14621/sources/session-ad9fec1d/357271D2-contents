@@ -1,7 +1,7 @@
 ---
 title: "Kevin Jacob"
 image: "Headshot2026.jpg"
-about:
+about: 
   template: jolla
   links:
     - icon: github
@@ -14,3 +14,7 @@ about:
       text: Contact
       href: mailto:kj096@uark.edu
 ---
+
+## About Me 
+
+Hi, I'm Kevin Jacob! I am an Industrial Engineering student at the University of Arkansas. I am interested in improving systems, optimizing processes, and finding efficient solutions to real-word problems.

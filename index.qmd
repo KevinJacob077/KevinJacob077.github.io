@@ -15,6 +15,6 @@ about:
       href: mailto:kj096@uark.edu
 ---
 
-## About Me 
+## About Me
 
 Hi, I'm Kevin Jacob! I am an Industrial Engineering student at the University of Arkansas. I am interested in improving systems, optimizing processes, and finding efficient solutions to real-word problems.
